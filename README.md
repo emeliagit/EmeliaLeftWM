@@ -1,0 +1,2 @@
+# EmeliaLeftWM
+My LeftWM config. 
